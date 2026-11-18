@@ -67,3 +67,4 @@ flutter test
 ![alt text](<Hasil, Deskripsi dibuka.png>)
 
 # Link video
+https://www.youtube.com/watch?v=CosoUatqrto&t=2s
